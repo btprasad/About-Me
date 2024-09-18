@@ -3,4 +3,4 @@ I'm Tirumala Prasad Bade, a dedicated Data Analyst with a Master's degree in Inf
 
 Throughout my career, I've contributed to optimizing business operations and driving strategic decisions. As an Associate Software Engineer at DXC Technology and a Data Analyst Intern at Ada Analytics, I developed advanced data models that enhanced financial predictions and operational efficiency.
 
-My passion lies in delivering actionable insights through data, and I have successfully led projects like Credit Risk Assessment Automation and Airline Sentiment Analysis using machine learning algorithms. With certifications in **Microsoft Power BI** and **Google Data Analytics**, I aim to continue contributing to impactful, data-driven solutions.
+My passion lies in delivering actionable insights through data, and I have successfully led projects like Credit Risk Assessment Automation and Airline Sentiment Analysis using machine learning algorithms. With certifications in **Microsoft Power BI** and **Google Data Analytics**, I aim to continue contributing to impactful, data-driven solutions. 
